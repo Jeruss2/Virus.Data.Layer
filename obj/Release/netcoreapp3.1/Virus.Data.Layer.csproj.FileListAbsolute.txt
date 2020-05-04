@@ -1,0 +1,12 @@
+C:\Users\jerus\source\repos\Virus.Data.Layer\bin\Release\netcoreapp3.1\Virus.Data.Layer.deps.json
+C:\Users\jerus\source\repos\Virus.Data.Layer\bin\Release\netcoreapp3.1\Virus.Data.Layer.dll
+C:\Users\jerus\source\repos\Virus.Data.Layer\bin\Release\netcoreapp3.1\Virus.Data.Layer.pdb
+C:\Users\jerus\source\repos\Virus.Data.Layer\bin\Release\netcoreapp3.1\CoronavirusModels.dll
+C:\Users\jerus\source\repos\Virus.Data.Layer\bin\Release\netcoreapp3.1\CoronavirusModels.pdb
+C:\Users\jerus\source\repos\Virus.Data.Layer\obj\Release\netcoreapp3.1\Virus.Data.Layer.csprojAssemblyReference.cache
+C:\Users\jerus\source\repos\Virus.Data.Layer\obj\Release\netcoreapp3.1\Virus.Data.Layer.csproj.CoreCompileInputs.cache
+C:\Users\jerus\source\repos\Virus.Data.Layer\obj\Release\netcoreapp3.1\Virus.Data.Layer.AssemblyInfoInputs.cache
+C:\Users\jerus\source\repos\Virus.Data.Layer\obj\Release\netcoreapp3.1\Virus.Data.Layer.AssemblyInfo.cs
+C:\Users\jerus\source\repos\Virus.Data.Layer\obj\Release\netcoreapp3.1\Virus.Data.Layer.csproj.CopyComplete
+C:\Users\jerus\source\repos\Virus.Data.Layer\obj\Release\netcoreapp3.1\Virus.Data.Layer.dll
+C:\Users\jerus\source\repos\Virus.Data.Layer\obj\Release\netcoreapp3.1\Virus.Data.Layer.pdb
